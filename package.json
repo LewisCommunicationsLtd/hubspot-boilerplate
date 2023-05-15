@@ -26,5 +26,6 @@
   "browserslist": [
     "defaults",
     "IE 11"
-  ]
+  ],
+  "dependencies": {}
 }
