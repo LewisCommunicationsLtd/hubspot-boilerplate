@@ -1,5 +1,5 @@
-deployable: cms-theme-boilerplate
-repoName: cms-theme-boilerplate
+deployable: hubspot-boilerplate
+repoName: hubspot-boilerplate
 themePath: @hubspot/boilerplate
 
 availableToScaffold: true

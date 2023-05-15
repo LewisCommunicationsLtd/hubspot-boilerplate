@@ -1,10 +1,10 @@
 {
-  "name": "@hubspot/cms-theme-boilerplate",
+  "name": "@hubspot/hubspot-boilerplate",
   "version": "3.11.0",
   "description": "Boilerplate project for building websites on the HubSpot CMS",
   "repository": {
     "type": "git",
-    "url": "git@git.hubteam.com:HubSpot/cms-theme-boilerplate.git"
+    "url": "git@git.hubteam.com:HubSpot/hubspot-boilerplate.git"
   },
   "author": "",
   "license": "Apache-2.0",

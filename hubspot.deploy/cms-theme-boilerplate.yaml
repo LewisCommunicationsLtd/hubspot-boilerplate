@@ -2,11 +2,11 @@ team: hs-content-assets
 
 type: static_deployed_pointer
 
-description: Boilerplate Theme
+description: Boilerplate Theme Yes
 
 artifactBuildMetadata:
-  repository: cms-theme-boilerplate
-  module: cms-theme-boilerplate
+  repository: hubspot-boilerplate
+  module: hubspot-boilerplate
 
 qaAutoDeployedBranches:
 - main
