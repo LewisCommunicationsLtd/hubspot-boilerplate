@@ -43,4 +43,4 @@ Helper classes with ability to override anything that comes before it
 
 
 
-{% include './tailwind/_output.css' %}
+{% include './tailwind/output.css' %}
